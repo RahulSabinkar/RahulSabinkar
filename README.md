@@ -28,10 +28,10 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/RahulSabinkar/dotfiles/tree/master/scripts/.scripts)
 
 <br />
-
+<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulSabinkar&show_icons=true&locale=en&layout=compact" alt="RahulSabinkar" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulSabinkar&show_icons=true&locale=en" alt="RahulSabinkar" /></p>
+<br />
 
 [twitter]: https://twitter.com/RahulSabinkar/
 [instagram]: https://www.instagram.com/rahul_sabinkar/
