@@ -1,48 +1,50 @@
-### Hi there, I'm Rahul. Welcome to my profile! 👋
+## My name is Rahul. Welcome to my profile! 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/RahulSabinkar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRahulSabinkar&screen_name=RahulSabinkar)
+### I'm an undergraduate in Computer Science
 
-## I'm an undergraduate in Computer Science
-
-- 👨‍💻 I’m currently learning more about GNU/Linux
-- 👯 I’m looking for internships and good opportunities!
+- 👨‍💻 I’m currently learning about Web Development
+- 🧑‍🎓 I’m looking for internships and good opportunities!
 - 🎯 2021 Goals: Work on personal and open-source projects
 - 🎮 Hobbies: I love speedcubing and video games
+- 💬 Ask me about anything GNU/Linux!
 
-### Connect with me:
+<h1 align="left">"</h1>
+<h1 align="center">The more you start learning and exploring, the more you start to realize how less you really know</h1>
+<h1 align="right">"</h1>
 
-[<img align="left" alt="RahulSabinkar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="RahulSabinkar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="RahulSabinkar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Connect with me:
 
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />](https://github.com/RahulSabinkar/dotfiles/tree/master/nvim/.config/nvim)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](http://freecodecamp.org/)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](http://freecodecamp.org/)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://youtu.be/8JJ101D3knE)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/RahulSabinkar)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/RahulSabinkar/dotfiles/tree/master/scripts/.scripts)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/RahulSabinkar)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/RahulSabinkar/)
+[<img src="https://img.shields.io/badge/instagram-%23D33E88.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/rahul_sabinkar/)
 
 <br />
-<br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulSabinkar&show_icons=true&locale=en&layout=compact" alt="RahulSabinkar" /></p>
-<br />
+<details>
+	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
+	<br/>
+	<img src="https://img.shields.io/badge/Programming-%233573b5.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+	<img src="https://img.shields.io/badge/Plus Plus-%233573b5.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+	<img src="https://img.shields.io/badge/java-%23ea2e2e.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
+	<img src="https://img.shields.io/badge/github-%23fc6d26.svg?&style=for-the-badge&logo=Github&logoColor=white" alt="Github"/>
+	<img src="https://img.shields.io/badge/Linux-%23222222.svg?&style=for-the-badge&logo=Linux&logoColor=white" alt="Linux"/>
+	<img src="https://img.shields.io/badge/neovim-%2362af43.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
+	<img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+	<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</details>
+
+<details>
+	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
+	<br/>
+	<img src="https://jf-gh-stats.vercel.app/api?username=RahulSabinkar&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
+	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=RahulSabinkar&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/>
+</details>
 
 [twitter]: https://twitter.com/RahulSabinkar/
 [instagram]: https://www.instagram.com/rahul_sabinkar/
 [linkedin]: https://www.linkedin.com/in/rahulsabinkar/
 <!--
-**RahulSabinkar/RahulSabinkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+ToDo:
+1. Add better quotes
+2. Add better C++ and C shields
 -->
