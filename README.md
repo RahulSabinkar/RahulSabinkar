@@ -2,11 +2,12 @@
 
 ### I'm an undergraduate in Computer Science
 
-- 👨‍💻 I’m currently learning about Web Development
+- 👨‍💻 I’m currently learning Java
 - 🧑‍🎓 I’m looking for internships and good opportunities!
 - 🎯 2021 Goals: Work on personal and open-source projects
 - 🎮 Hobbies: I love speedcubing and video games
-- 💬 Ask me about anything GNU/Linux!
+- 💬 Ask me about anything GNU/Linux and Programming!
+- 📧 Email: rahulsabinkar4u@gmail.com
 
 <h1 align="left">"</h1>
 <h1 align="center">The more you start learning and exploring, the more you start to realize how less you really know</h1>
