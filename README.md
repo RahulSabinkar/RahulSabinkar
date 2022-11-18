@@ -1,9 +1,9 @@
-## My name is Rahul. Welcome to my profile! 👋
+<h1 align="center">Hi. Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-### I'm an undergraduate in Computer Science
+### I'm a graduate in Computer Science
 
-- 👨‍💻 I’m currently learning HTML, CSS and Javascript.
-- 🧑‍🎓 I’m looking for internships and good opportunities.
+- 👨‍💻 I’m currently learning ReactJS!
+- 🧑‍🎓 I’m looking for a Software Developer role.
 - 🎯 2022 Goals: Work on web-based projects.
 - 🎮 Hobbies: I love speedcubing and video games.
 - 💬 Ask me about anything GNU/Linux and Programming.
@@ -20,32 +20,28 @@
 [<img src="https://img.shields.io/badge/instagram-%23D33E88.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/rahul_sabinkar/)
 
 <br />
-<details>
-	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
-	<br/>
-	<img src="https://img.shields.io/badge/Programming-%233573b5.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-	<img src="https://img.shields.io/badge/Plus Plus-%233573b5.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-	<img src="https://img.shields.io/badge/java-%23ea2e2e.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
-	<img src="https://img.shields.io/badge/github-%23fc6d26.svg?&style=for-the-badge&logo=Github&logoColor=white" alt="Github"/>
-	<img src="https://img.shields.io/badge/Linux-%23222222.svg?&style=for-the-badge&logo=Linux&logoColor=white" alt="Linux"/>
-	<img src="https://img.shields.io/badge/neovim-%2362af43.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
-	<img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-	<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</details>
-
-<details>
-	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
-	<br/>
-	<img src="https://jf-gh-stats.vercel.app/api?username=RahulSabinkar&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
-	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=RahulSabinkar&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/>
-</details>
+<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
+<br/>
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
+</p>
+<br>
+<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
+<br/>
+<img src="https://jf-gh-stats.vercel.app/api?username=RahulSabinkar&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
+<!-- <img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=RahulSabinkar&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/> -->
 
 [twitter]: https://twitter.com/RahulSabinkar/
 [instagram]: https://www.instagram.com/rahul_sabinkar/
 [linkedin]: https://www.linkedin.com/in/rahulsabinkar/
-<!--
-ToDo:
-1. Add better quotes
-2. Add better C++ and C shields
--->
