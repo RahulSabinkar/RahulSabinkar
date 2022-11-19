@@ -39,7 +39,7 @@
 <br>
 <summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
 <br/>
-<img src="https://jf-gh-stats.vercel.app/api?username=RahulSabinkar&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
+<img src="https://github-readme-stats.vercel.app/api/?username=RahulSabinkar&count_private=true&theme=tokyonight&showicons=true" alt="GitHub Stats" align="top"/>
 <!-- <img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=RahulSabinkar&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/> -->
 
 [twitter]: https://twitter.com/RahulSabinkar/
